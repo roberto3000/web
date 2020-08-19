@@ -8,14 +8,14 @@ body {
 }
 
 a:link {
-    color: #ffffff;
+    color: #696969;
 }
 a:hover {
     color: #ff0000;
     text-decoration: underline;
 }
 a:active {
-    color: #ffffff;
+    color: #696969;
 }
 a:visited {
     color: #696969;
