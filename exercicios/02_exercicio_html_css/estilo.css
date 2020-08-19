@@ -1,9 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Play);
+
 body {
-    background-color: #000;
+    font-family: Play;
+
+    background-color: #696969;
+    background-image: url('https://i.imgur.com/6pp3Vsm.png');
+}
+
+a:link {
+    color: #ffffff;
+}
+a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+}
+a:active {
+    color: #ffffff;
+}
+a:visited {
+    color: #696969;
 }
 
 
 .titulo {
-    color: #ffff00;
+    color: #ec7404;
     font-size: 36px;
+}
+
+.subtitulo {
+    color: #f18c00;
+    font-size: 24px;
+}
+
+p {
+    font-size: 20px;
 }
